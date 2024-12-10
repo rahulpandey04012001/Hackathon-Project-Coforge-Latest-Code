@@ -1,0 +1,7 @@
+ID,Step,Expected
+1,User performs 'want',Action completes successfully
+2,User performs 'want' with invalid input,Appropriate error message displayed
+2,User performs 'search',Action completes successfully
+3,User performs 'search' with invalid input,Appropriate error message displayed
+3,User performs 'find',Action completes successfully
+4,User performs 'find' with invalid input,Appropriate error message displayed

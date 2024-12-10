@@ -1,0 +1,11 @@
+Test Case 1:
+- Step: Enter a specific keyword "phone" in the search bar
+- Expected Result: The search results display all products related to the keyword "phone"
+
+Test Case 2:
+- Step: Enter a generic keyword "electronics" in the search bar
+- Expected Result: The search results display a variety of electronic products available for purchase
+
+Test Case 3:
+- Step: Enter a misspelled keyword "camra" in the search bar
+- Expected Result: The system should suggest the correct spelling "camera" and display relevant search results for the corrected keyword
